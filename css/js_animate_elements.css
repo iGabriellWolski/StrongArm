@@ -1,0 +1,10 @@
+.js_scroll{
+    opacity: 0;
+    transition: .5s;
+    transform: translate3d(0 0 -100%)
+}
+
+.js_scroll.ativo{
+    opacity: 1;
+    transform: translate3d(0 0 0px)
+}

@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url(header.css);
+@import url(call-to-action.css);
+@import url(info.css);
+@import url(social.css);
+@import url(galery.css);
+@import url(footer.css);
+@import url(js_animate_elements.css);
+@import url(media-query.css);
+
+
+:root {
+    --FonteDestaque: 'Audiowide', cursive;
+}
+
+* {
+    margin: 0rem;
+    padding: 0rem;
+    box-sizing: border-box;
+    font-family: var(--FonteDestaque);
+    color: #0F0F0F;
+}
+
+
+
+
+
+
+
+/* ------------------------------------------ */
+
+
+
+
+
+
+/* -------------------------------------------------------- */
+
+
+
+
+
+
+
+h2 {
+    font-size: 20px;
+}
